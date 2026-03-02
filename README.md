@@ -1,20 +1,41 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Nexora-GDE AI Web Application
 
-# Run and deploy your AI Studio app
+An AI-powered web application built using Google's Gemini API.  
+Developed by Elamathy – B.Tech Artificial Intelligence & Data Science student.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/01a01e5e-3c61-4e2c-837f-242ef7d12ba0
+## 🚀 Project Overview
 
-## Run Locally
+This project integrates the Gemini API to build an intelligent AI assistant.  
+It demonstrates API integration, backend setup, and modern frontend development.
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠 Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- Node.js
+- TypeScript
+- Vite
+- Gemini API
+- HTML / CSS
+
+---
+
+## ✨ Features
+
+- AI-powered chat interaction
+- Fast response generation
+- Secure API key handling using .env
+- Clean and modern UI
+
+---
+
+## 🖥 Run Locally
+
+### Prerequisites:
+- Node.js installed
+
+### Steps:
+
+1. Install dependencies  
