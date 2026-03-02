@@ -39,3 +39,24 @@ It demonstrates API integration, backend setup, and modern frontend development.
 ### Steps:
 
 1. Install dependencies  
+
+npm install
+
+
+2. Add your Gemini API key inside `.env.local`
+
+GEMINI_API_KEY=your_api_key_here
+
+
+3. Start development server  
+
+npm run dev
+
+
+---
+
+## 📌 Author
+
+Elamathy  
+B.Tech Artificial Intelligence & Data Science  
+Passionate about building real-world AI solutions
